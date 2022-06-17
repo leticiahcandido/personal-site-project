@@ -1,0 +1,24 @@
+.body{
+    background-color: #FBE5E5;
+}
+
+.border{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #FF9999;
+    border-width: 7px;
+    width: 10%;
+}
+    
+.h1{
+    color: #DF5E5E;
+}
+
+.h3{
+    color: #FF9999;
+}
+
+p{
+    color: #492F10;
+}
+
